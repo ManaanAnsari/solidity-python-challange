@@ -15,3 +15,6 @@ docs/
 
 */__pycache__
 notes.txt
+*/events.csv
+*/cache.json
+*/.env
